@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello Git
+echo "Hello Git!"
